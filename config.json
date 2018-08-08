@@ -1,0 +1,27 @@
+{
+  "Menu": {
+    "items": [{
+      "title": "Home",
+      "path": "home"
+    }, {
+      "title": "Settings",
+      "path": "settings"
+    }]
+  },
+  "Settings": {
+    "title": "Settings",
+    "settings": [{
+      "title": "Setting 1",
+      "subtitle": "Subtitle 1",
+      "path": "settings/1"
+    },{
+      "title": "Setting 2",
+      "subtitle": "Subtitle 2",
+      "path": "settings/2"
+    },{
+      "title": "Setting 3",
+      "subtitle": "Subtitle 3",
+      "path": "settings/3"
+    }]
+  }
+}

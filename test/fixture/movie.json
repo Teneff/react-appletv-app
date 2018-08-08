@@ -1,0 +1,131 @@
+{
+  "title": "WWDC Road Trip",
+  "subtitle": "Follow the crazy adventures of a determined developer",
+  "description": "The story of an aspiring developer who needs a ticket to WWDC, but can't afford one, so he hires on as a cook at the conference. Follow his trip across the country as he heads to WWDC. The story of an aspiring developer who needs a ticket to WWDC, but can't afford one, so he hires on as a cook at the conference. Follow his trip across the country as he heads to WWDC. The story of an aspiring developer who needs a ticket to WWDC, but can't afford one, so he hires on as a cook at the conference. Follow his trip across the country as he heads to WWDC.",
+  "duration": 5000,
+  "genres": [
+    "Comedy"
+  ],
+  "year": "2015",
+  "tomato": "99%",
+  "badges": [
+    "mpaa-pg",
+    "cc"
+  ],
+  "preview": {},
+  "price": "9.99",
+  "image": {
+    "src": "/assets/images/Cooking_Show_720x1080.png"
+  },
+  "episodes": [
+    {
+      "title": "Turn",
+      "image": {
+        "src": "/assets/images/Cooking_Show_250x375_A.png",
+        "width": 150,
+        "height": 226
+      }
+    },
+    {
+      "title": "Road",
+      "image": {
+        "src": "/assets/images/Cooking_Show_250x375_B.png",
+        "width": 150,
+        "height": 226
+      }
+    },
+    {
+      "title": "Helicopter",
+      "image": {
+        "src": "/assets/imagesCooking_Show_250x375_C.png",
+        "width": 150,
+        "height": 226
+      }
+    }
+  ],
+  "ratings": [
+    {
+      "provider": "iTunes",
+      "data": {
+        "current": 4.1,
+        "max": 5,
+        "total": 2241
+      }
+    },
+    {
+      "provider": "RottenTomatoes",
+      "data": {
+        "rotten": 20,
+        "fresh": 1239
+      }
+    },
+    {
+      "provider": "WWDC",
+      "data": {
+        "badge": "resource://tomato-fresh-m",
+        "title": "WWDC Review",
+        "description": "Brief review here",
+        "text": "Ravi Patel June, 8 2015"
+      }
+    }
+  ],
+  "info": [
+    {
+      "title": "Information",
+      "data": [
+        {
+          "title": "Studio",
+          "text": "Apple",
+          "Format": "Widescreen"
+        },
+        {
+          "title": "Runtime",
+          "text": "1:54"
+        },
+        {
+          "title": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "data": [
+        {
+          "title": "Primary",
+          "text": "English (Dolby 5.1), Subtitles, CC"
+        },
+        {
+          "title": "Additional",
+          "text": "Cantonese (Subtitles)"
+        }
+      ]
+    },
+    {
+      "title": "Accessibility",
+      "data": [
+        {
+          "title": "SDH",
+          "text": "Subtitles for the deaf and Hard of Hearing (SDH) refer to subtitles in the original lanuage with the addition of relevant non-dialog information."
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "firstName": "Anne",
+      "lastName": "Johnson",
+      "role": "Actor"
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Clark",
+      "role": "Actor"
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Kendrick",
+      "role": "Actor"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+.imageWithGradient {
+  tv-tint-color: linear-gradient(top, 0.33, transparent, 0.66, rgba(0, 64, 0, 0.7),
+    rgba(0, 64, 0, 1.0));
+}
+
+.showTextOnHighlight {
+  tv-text-highlight-style: show-on-highlight;
+}
+
+.scrollTextOnHighlight {
+  tv-text-highlight-style: marquee-on-highlight;
+}
+
+.showAndScrollTextOnHighlight {
+  tv-text-highlight-style: marquee-and-show-on-highlight;
+}
+.lockupOverlay {
+    padding: 0;
+    margin: 0;
+    font-size: 23;
+    tv-text-style: subhead;
+    text-shadow: 0, 0, 8, rgb(0, 0, 0);
+}
+.overlayDescription {
+    tv-position: bottom-left;
+    margin: 10 15;
+    text-shadow: 0, 0, 8, rgb(0, 0, 0);
+    font-weight: medium;
+}
+.overlayDescriptionBadge {
+    color: rgb(255, 0, 0);
+}
+.overlaySubtitle {
+    tv-position: bottom-right;
+    text-align: right;
+    margin: 10 15;
+    font-weight: medium;
+}
+.premiumOverlay {
+    width: 120;
+    padding: 15 0;
+    margin: 0;
+    tv-position: top-right;
+    tv-align: right;
+    font-weight: heavy;
+    text-align: center;
+
+    background-color: rgba(0,0,0,0.6);
+    color: rgb(255,255,255);
+}
+.lockupImg {
+    tv-placeholder: tv;
+}
+
+@media tv-template and (tv-theme:dark) {
+    .lockupOverlay, .overlaySubtitle, .overlayDescription  {
+        color: rgba(255, 255, 255, 0.5);
+        tv-highlight-color: rgba(255, 255, 255, 0.9);
+    }
+}
